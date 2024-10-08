@@ -1,17 +1,40 @@
-# Object Oriented-Programming
+# Python Object-Oriented Programming
 
-The field of Data Science, although seemingly complex, is in essence an exploration of information and the patterns within.
+In the evolving field of Data Science, at its core, lies the art of uncovering insights and recognizing patterns within data. While this discipline integrates elements of mathematics, statistics, and computer science, effective problem-solving in this space often depends on strong foundational skills in software engineering principles, particularly Object-Oriented Programming (OOP).
 
-Data science encompasses various methods and theories drawn from many fields within the context of mathematics, statistics, and computer science. This repository is devoted to a deeper understanding of data science, particularly Machine Learning, with exercises and solutions from the well-regarded book "Gradient Boosting with XGBoost & Scikit-Learn" (Corey Wade, 2020).
+This repository was created to enhance and refine these essential programming practices, particularly in Python, through the lens of Machine Learning and Data Science applications. Grounded in the teachings of the renowned book “Python for Object-Oriented Programming” by Steven F. Lott and Dusty Phillips (2021), it offers a comprehensive collection of exercises and solutions aimed at fostering a more logical, structured, and professional approach to coding in real-world scenarios.
 
-The primary aim of this repository is to provide an accessible yet comprehensive resource to those embarking on their journey in the field of data science. The repository will provide explanations, solutions, and insights into the numerous exercises contained within the aforementioned book.
+The goal of this repository is not only to serve as a practical resource for mastering OOP concepts but also to help data scientists and developers craft cleaner, more efficient, and maintainable code. Whether you’re just beginning your journey in Data Science or looking to sharpen your programming expertise, this repository aims to support your growth through a structured exploration of key principles and best practices.
 
 ## Content Review:
-Section 1: (Decision tree depth, Bagging with RF, Gradient boosting with XGB)
+Chapter 1: ``sh ``
 
-Section 2: (XGBoost unvailed, Hyperparameters)
+Chapter 2: ``sh ``
 
-Section 3: (Alternative base learners, Kaggle masters & Model Deployment)
+Chapter 3: ``sh ``
+
+Chapter 4: ``sh ``
+
+Chapter 5: ``sh ``
+
+Chapter 6: ``sh ``
+
+Chapter 7: ``sh ``
+
+Chapter 8: ``sh ``
+
+Chapter 9: ``sh ``
+
+Chapter 10: ``sh ``
+
+Chapter 11: ``sh ``
+
+Chapter 12: ``sh ``
+
+Chapter 13: ``sh ``
+
+Chapter 14: ``sh ``
+
 
 ## Usage and Contribution
 
