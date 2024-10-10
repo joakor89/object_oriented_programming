@@ -7,33 +7,33 @@ This repository was created to enhance and refine these essential programming pr
 The goal of this repository is not only to serve as a practical resource for mastering OOP concepts but also to help data scientists and developers craft cleaner, more efficient, and maintainable code. Whether you’re just beginning your journey in Data Science or looking to sharpen your programming expertise, this repository aims to support your growth through a structured exploration of key principles and best practices.
 
 ## Content Review:
-Chapter 1: ``sh ``
+Chapter 1: ``sh Object-Oriented Design``
 
-Chapter 2: ``sh ``
+Chapter 2: ``sh Objects in Python``
 
-Chapter 3: ``sh ``
+Chapter 3: ``sh When Objects are Alike``
 
-Chapter 4: ``sh ``
+Chapter 4: ``sh Expecting The Unexpected``
 
-Chapter 5: ``sh ``
+Chapter 5: ``sh When to Use Object-Oriented Programming``
 
-Chapter 6: ``sh ``
+Chapter 6: ``sh Abstract Base Classes & Operator Overloading``
 
-Chapter 7: ``sh ``
+Chapter 7: ``sh Python Data Structures``
 
-Chapter 8: ``sh ``
+Chapter 8: ``sh The Intersection of Object-Oriented & Functional``
 
-Chapter 9: ``sh ``
+Chapter 9: ``sh Strings, Serialization & File Paths``
 
-Chapter 10: ``sh ``
+Chapter 10: ``sh The Iterator Pattern``
 
-Chapter 11: ``sh ``
+Chapter 11: ``sh Common Design Patterns``
 
-Chapter 12: ``sh ``
+Chapter 12: ``sh Advanced Design Patterns``
 
-Chapter 13: ``sh ``
+Chapter 13: ``sh Testing Object-Oriented Programs``
 
-Chapter 14: ``sh ``
+Chapter 14: ``sh Concurrency``
 
 
 ## Usage and Contribution
