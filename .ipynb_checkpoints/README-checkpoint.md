@@ -35,17 +35,12 @@ Chapter 13: ``sh Testing Object-Oriented Programs``
 
 Chapter 14: ``sh Concurrency``
 
-## Purpose of This Repository
 
-`` sh The development of this repository is guided by several key objectives``:
+## Usage and Contribution
 
-1.	Enhancing Data Structure and Logic: This repository is built upon the fourth edition of “Python for Object-Oriented Programming” to deepen my understanding of data structure and logic. Inspired by Object-Oriented Ontology in philosophy, it serves as a foundational pillar for structuring and processing data. Through this approach, I aim to refine the architecture of my code to align with the principles of efficient data management.
+This repository is open for all to use and learn from. However, keep in mind that this repository is meant to be a supplement to your learning and not a substitute for the book itself.
 
-2.	Improving Best Practices for Machine Learning in Finance: A significant focus of this repository is the improvement of best practices in developing classes, modules, and functions, particularly for machine learning applications in finance. My goal is to enhance and fine-tune coding logic, particularly with snippets tailored toward personal finance, ensuring that solutions are robust, scalable, and maintainable.
-
-3.	Real Estate Portfolio Development: This repository also supports my ongoing work in real estate, with applications designed to predict real-time trends in the housing market across various states in the United States. While the machine learning models themselves are not included here, this repository forms the backbone of data processing logic that informs my predictive models.
-
-Although this repository adheres strictly to the guidelines and exercises outlined in the aforementioned book, it is crafted to allow others to learn and contribute. Those who fork or clone this repository will find it to be more than a collection of code—it is a reflection of intentional development, grounded in both technical rigor and real-world application.
+If you wish to contribute to this repository, please feel free to open a pull request. Let's cultivate a collaborative space where knowledge can be shared and gained.
 
 #### Note:
 As this repository strictly serves an educational purpose, it abides by the guidelines set forth regarding fair use. 
